@@ -30,6 +30,12 @@ h2 {
 #textocentrado  {
     text-align: center;
 }
+#habilidades  {
+    color: #ff6600;
+}
+#habilidades  {
+    text-align: left;
+}
 h3 {
  margin: 0;
  font-size: 16px;
@@ -40,23 +46,25 @@ main {
  margin: 0 auto;
  padding: 1rem;
 }
-section {
+#perfil {
  margin-bottom: 2rem;
  border-bottom: solid 1px;
  border-top: solid 1px;
  border-left: solid 1px;
  border-right: solid 1px;
+ text-align: center;
 }
 p {
  line-height: 1.6;
  background-color: #f9f9f9;
  padding: 10;
 }
-ul {
+ul2 {
  padding: 50;
 }
 li {
  margin-bottom: 0.5rem;
+ text-align: center;
 }
 .textoJustificado {
     padding: 50px;
